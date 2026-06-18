@@ -68,7 +68,7 @@ pip install -r requirements.txt
   title  = {NurseXAI: Multi-label NANDA-I nursing diagnosis classification in European Portuguese},
   author = {Cicero Mendes Siqueira },
   year   = {2025},
-  doi    = {[ZENODO_DOI]},
+   doi    = {10.5281/zenodo.20747086},
   url    = {https://github.com/Cicerosiq/nursexai}
 }
 ```
