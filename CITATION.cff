@@ -8,7 +8,7 @@ doi: "[ZENODO_DOI]"
 
 authors:
   - family-names: "Siqueira"
-    given-names: "Cicero"
+    given-names: "Cicero Mendes"
     orcid: "https://orcid.org/0000-0002-4323-8794"
     affiliation: "[Instituição]"
 
@@ -31,8 +31,8 @@ keywords:
 preferred-citation:
   type: article
   authors:
-    - family-names: "[Apelido]"
-      given-names: "[Nome]"
+    - family-names: "Siqueira"
+      given-names: "Cicero Mendes"
   title: >
     Multi-label classification of NANDA-I nursing diagnoses from synthetic
     psychiatric clinical notes in European Portuguese using BERTimbau with
