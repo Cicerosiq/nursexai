@@ -4,7 +4,7 @@ message: "If you use this software, please cite it as below."
 title: "NurseXAI: Multi-label NANDA-I nursing diagnosis classification in European Portuguese"
 version: 1.0.0
 date-released: "2025-01-01"
-doi: "[ZENODO_DOI]"
+doi: "10.5281/zenodo.20747086"
 
 authors:
   - family-names: "Siqueira"
@@ -13,7 +13,7 @@ authors:
     affiliation: "[Instituição]"
 
 repository-code: "https://github.com/Cicerosiq/nursexai"
-url: "https://zenodo.org/record/[ZENODO_ID]"
+url: "https://zenodo.org/record/20747086"
 license: MIT
 
 keywords:
