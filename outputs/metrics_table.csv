@@ -1,0 +1,5 @@
+Modelo,Protocolo,F1_Macro,F1_Macro_CI_low,F1_Macro_CI_high,F1_Micro,Hamming_Loss,HL_CI_low,HL_CI_high
+TF-IDF (threshold 0.30),holdout,0.000,0.000,0.000,0.000,0.108,0.094,0.122
+TF-IDF (calibrado),holdout,0.527,0.456,0.581,0.595,0.112,0.091,0.133
+BERTimbau (threshold 0.30),holdout,0.552,0.487,0.610,0.548,0.155,0.132,0.180
+BERTimbau (calibrado),holdout,0.752,0.666,0.825,0.762,0.048,0.031,0.064

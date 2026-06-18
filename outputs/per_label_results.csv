@@ -1,0 +1,16 @@
+Label,NANDA_Code,F1_BERT,F1_TFIDF,Delta,Vencedor,Support_test
+Ansiedade excessiva,00400,0.89,0.45,+0.44,BERT,5
+Autoeficácia em saúde inadequada,00338,0.44,0.00,+0.44,BERT,5
+Autoestima inadequada crônica,00483,0.73,1.00,-0.27,TF-IDF,6
+Autoestima inadequada situacional,00481,1.00,0.67,+0.33,BERT,4
+Autogestão ineficaz da saúde,00276,0.57,0.33,+0.24,BERT,3
+Comportamento autolesivo não suicida,00467,0.91,0.80,+0.11,BERT,5
+Conexão social inadequada,00383,0.57,0.65,-0.08,TF-IDF,10
+Controle de impulsos ineficaz,00222,1.00,0.62,+0.38,BERT,4
+Enfrentamento desadaptativo,00405,0.59,0.90,-0.31,TF-IDF,10
+Identidade pessoal conturbada,00494,1.00,1.00,0.00,Empate,3
+Luto desadaptativo,00301,1.00,0.00,+1.00,BERT,5
+Regulação do humor prejudicada,00241,0.73,0.53,+0.20,BERT,5
+Resiliência prejudicada,00210,0.80,0.45,+0.35,BERT,5
+Risco comport. autolesivo suicida,00466,0.57,0.00,+0.57,BERT,5
+Síndrome pós-traumática,00141,0.89,0.75,+0.14,BERT,4

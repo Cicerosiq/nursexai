@@ -1,0 +1,32 @@
+{
+  "dataset": {
+    "name": "NurseXAI Dataset",
+    "language": "pt-PT",
+    "task": "multi_label_classification",
+    "nature": "synthetic",
+    "total_samples": 243,
+    "n_labels": 15,
+    "label_density_mean": 1.54,
+    "imbalance_ratio": 2.28,
+    "splits": {"train": 170, "val": 24, "test": 49},
+    "generation_model": "Claude Opus 4.7 (Anthropic)",
+    "clinical_validation": "EESMP specialist nurse"
+  },
+  "thresholds_calibrated_kfold": {
+    "Ansiedade excessiva (00400)": 0.61,
+    "Autoeficácia em saúde inadequada (00338)": 0.65,
+    "Autoestima inadequada crônica (00483)": 0.50,
+    "Autoestima inadequada situacional (00481)": 0.56,
+    "Autogestão ineficaz da saúde (00276)": 0.59,
+    "Comportamento autolesivo não suicida (00467)": 0.62,
+    "Conexão social inadequada (00383)": 0.59,
+    "Controle de impulsos ineficaz (00222)": 0.54,
+    "Enfrentamento desadaptativo (00405)": 0.61,
+    "Identidade pessoal conturbada (00494)": 0.51,
+    "Luto desadaptativo (00301)": 0.55,
+    "Regulação do humor prejudicada (00241)": 0.58,
+    "Resiliencia Prejudicada (00210)": 0.56,
+    "Risco de comportamento autolesivo suicida (00466)": 0.54,
+    "Síndrome pós-trauma (00141)": 0.57
+  }
+}

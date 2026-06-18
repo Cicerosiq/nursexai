@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+
+title: "NurseXAI: Multi-label NANDA-I nursing diagnosis classification in European Portuguese"
+version: 1.0.0
+date-released: "2025-01-01"
+doi: "[ZENODO_DOI]"
+
+authors:
+  - family-names: "Siqueira"
+    given-names: "Cicero"
+    orcid: "https://orcid.org/0000-0002-4323-8794"
+    affiliation: "[Instituição]"
+
+repository-code: "https://github.com/Cicerosiq/nursexai"
+url: "https://zenodo.org/record/[ZENODO_ID]"
+license: MIT
+
+keywords:
+  - nursing informatics
+  - NANDA-I
+  - NLP
+  - BERTimbau
+  - multi-label classification
+  - European Portuguese
+  - explainable AI
+  - LIME
+  - CLIX-M
+  - mental health
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "[Apelido]"
+      given-names: "[Nome]"
+  title: >
+    Multi-label classification of NANDA-I nursing diagnoses from synthetic
+    psychiatric clinical notes in European Portuguese using BERTimbau with
+    calibrated thresholds and LIME explainability: evaluation against the CLIX-M framework
+  journal: "[Journal Name]"
+  year: 2025
+  doi: "[ARTICLE_DOI]"
